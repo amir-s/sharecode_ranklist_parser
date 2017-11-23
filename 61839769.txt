@@ -1,0 +1,110 @@
+"problems stats:" [
+    {
+        "label": "A",
+        "teams_accepted": 190,
+        "teams_tried": 239,
+        "total_tries": 896,
+        "first_acc_time": 5,
+        "ratio": 0.21205357142857142
+    },
+    {
+        "label": "B",
+        "teams_accepted": 155,
+        "teams_tried": 194,
+        "total_tries": 648,
+        "first_acc_time": 6,
+        "ratio": 0.23919753086419754
+    },
+    {
+        "label": "C",
+        "teams_accepted": 132,
+        "teams_tried": 175,
+        "total_tries": 519,
+        "first_acc_time": 19,
+        "ratio": 0.2543352601156069
+    },
+    {
+        "label": "D",
+        "teams_accepted": 28,
+        "teams_tried": 48,
+        "total_tries": 226,
+        "first_acc_time": 42,
+        "ratio": 0.12389380530973451
+    },
+    {
+        "label": "E",
+        "teams_accepted": 2,
+        "teams_tried": 20,
+        "total_tries": 77,
+        "first_acc_time": 290,
+        "ratio": 0.025974025974025976
+    },
+    {
+        "label": "F",
+        "teams_accepted": 0,
+        "teams_tried": 5,
+        "total_tries": 16,
+        "first_acc_time": null,
+        "ratio": 0
+    },
+    {
+        "label": "G",
+        "teams_accepted": 4,
+        "teams_tried": 7,
+        "total_tries": 11,
+        "first_acc_time": 212,
+        "ratio": 0.36363636363636365
+    },
+    {
+        "label": "H",
+        "teams_accepted": 15,
+        "teams_tried": 31,
+        "total_tries": 93,
+        "first_acc_time": 48,
+        "ratio": 0.16129032258064516
+    },
+    {
+        "label": "I",
+        "teams_accepted": 7,
+        "teams_tried": 14,
+        "total_tries": 36,
+        "first_acc_time": 65,
+        "ratio": 0.19444444444444445
+    },
+    {
+        "label": "J",
+        "teams_accepted": 0,
+        "teams_tried": 4,
+        "total_tries": 5,
+        "first_acc_time": null,
+        "ratio": 0
+    },
+    {
+        "label": "K",
+        "teams_accepted": 38,
+        "teams_tried": 75,
+        "total_tries": 252,
+        "first_acc_time": 26,
+        "ratio": 0.15079365079365079
+    },
+    {
+        "label": "L",
+        "teams_accepted": 0,
+        "teams_tried": 3,
+        "total_tries": 8,
+        "first_acc_time": null,
+        "ratio": 0
+    }
+]
+"distribution stats:" {
+    "0": 47,
+    "1": 48,
+    "2": 39,
+    "3": 75,
+    "4": 18,
+    "5": 14,
+    "6": 5,
+    "7": 2,
+    "8": 2,
+    "9": 2
+}
